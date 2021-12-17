@@ -551,13 +551,19 @@ output [9:0] y);
                 pos_y = 30;
                 count = count + 1;
             end
-            else if (count == 6)
+            else if (count == 7)
             begin 
                 pos_x = 600;
                 pos_y = 440;
                 count = count + 1;
             end
             else if (count == 8)
+            begin 
+                pos_x = 70;
+                pos_y = 200;
+                count = count + 1;
+            end
+            else if (count == 9)
             begin 
                 pos_x = 250;
                 pos_y = 250;
