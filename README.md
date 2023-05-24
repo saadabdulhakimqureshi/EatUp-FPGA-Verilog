@@ -2,6 +2,11 @@
 
 Eat is an arcade style game where you have to avoid the other balls. Every hit you take causes your ball size to increase making it difficult for you to avoid them again.
 
+## Implementation:
+
+Software: Xlinix Vivado(Verilog)
+Hardware: FPGA Board
+
 ## Rules
 When game is started the all circles are in embargo until the user presses Enter.
 
@@ -15,15 +20,10 @@ If the circle decreases to a radius of 10 the player loses the game and the game
 
 To run the game you will need an FPGA board and vivado design suite software.
 
-## Screens
-
-View the images in snapshots folder.
-
 ## Video
 
 https://www.youtube.com/watch?v=46foIAfIwKM
 
-## Implementation:
+## Screens
 
-Software: Xlinix Vivado(Verilog)
-Hardware: FPGA Board
+![Alt text](/images/image.PNG "Eat Up")
