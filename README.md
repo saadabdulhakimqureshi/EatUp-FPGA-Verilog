@@ -2,6 +2,8 @@
 
 Eat is an arcade style game where you have to avoid the other balls. Every hit you take causes your ball size to increase making it difficult for you to avoid them again.
 
+Course: Digital Logic and Design(Final Project)
+
 ## Implementation:
 
 Software: Xlinix Vivado(Verilog)
